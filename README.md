@@ -1,4 +1,4 @@
-# Mozation
+# Mozation :fire:
 Team members of this group consist of
 
 * Callum - Team Leader
@@ -6,7 +6,4 @@ Team members of this group consist of
 * Ricardo
 * Muhammed 
 
-## Friday Work
-* A theme that is chosen
-* Decentralisation and Open Innovation
-* Branding
+A group of students working a blog/website to cover news and information at the Mozilla Festival at Ravensbourne. 
