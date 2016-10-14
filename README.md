@@ -7,3 +7,5 @@ Team members of this group consist of
 * Muhammed 
 
 A group of students working a blog/website to cover news and information at the Mozilla Festival at Ravensbourne. 
+
+http://demo.powerthemes.club/themes/boston/
